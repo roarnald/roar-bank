@@ -21,17 +21,17 @@ ScamShield is Singapore's national anti-scam platform. S$1.1 billion was lost to
 
 ### Strong Fit
 
-| JD Requirement | Your Evidence | Strength |
-|---------------|--------------|---------|
-| Lead engineering team, set technical direction | SA Review process, Coin rewrite, 6 SA proposals, Vite solutions | ★★★★★ |
-| Hands-on production code (last 12 months) | New138 (2024), Licensing/translation feature (5 repos, 2025), Dependency Bot, Project Fortuna | ★★★★☆ |
-| Hire, onboard, manage engineers | Team grown 5→30; Buddy System; IC roles; Mid-year appraisals; UIUX transition coaching | ★★★★☆ |
-| React + TypeScript + AWS | Deep React expertise; AWS (RDS, EKS, S3, CloudFront) on New138 + NL; TypeScript in NodeJS templates | ★★★★☆ |
-| Partner with PM on strategy and metrics | 6 years working with Joanne + Dominic; Action Plan group; perf test objectives designed | ★★★★☆ |
-| Cross-functional stakeholder management | DFNN Manila; Aquarix; Kar Wai; CTO group; UIUX merger cross-team influence | ★★★★☆ |
-| PostgreSQL | Used in New138 (migration scripts, DB design) and Community Chat proposal | ★★★☆☆ |
-| Deliver difficult feedback, own hard conversations | UIUX merger individual consultations; conflict mediation; Urgency Tagging | ★★★☆☆ |
-| NestJS + Node.js backend | **Built NestJS architecture for Community Chat (2026)** — module structure, DI, WebSocket gateways, Valkey Pub/Sub. Created and led dedicated Fullstack JS team. | ★★★★★ |
+| JD Requirement | Your Evidence | Why not 5★ | Strength |
+|---------------|--------------|------------|---------|
+| Lead engineering team, set technical direction | SA Review process, Coin rewrite, 6 SA proposals, Vite solutions | — | ★★★★★ |
+| Hands-on production code (last 12 months) | **Community Chat NestJS architecture shipped to production last month (May 2026). App going live this week.** Also: Licensing/translation feature (5 repos, 2025), Dependency Bot, Project Fortuna | — | ★★★★★ |
+| NestJS + Node.js backend | **Built NestJS architecture for Community Chat (2026)** — module structure, DI, WebSocket gateways, Valkey Pub/Sub. Created and led dedicated Fullstack JS team. | — | ★★★★★ |
+| Hire, onboard, manage engineers | Team grown 5→30; Buddy System; IC roles; Mid-year appraisals; UIUX transition coaching | No documented formal hiring loop ownership (sourcing, panel design, offer). All leadership was people development, not structured recruiting. | ★★★★☆ |
+| React + TypeScript + AWS | Deep React expertise; AWS (RDS, EKS, S3, CloudFront) on New138 + NL; TypeScript in NodeJS templates | AWS depth is architect-level awareness, not hands-on DevOps. TypeScript used in templates and Astro, but not the dominant language across all listed work. | ★★★★☆ |
+| Partner with PM on strategy and metrics | 6 years working with Joanne + Dominic; Action Plan group; perf test objectives designed | All PM partnership is within a single company and known colleagues. No evidence of navigating ambiguous product strategy with a new PM in a new organisation. | ★★★★☆ |
+| Cross-functional stakeholder management | DFNN Manila; Aquarix; Kar Wai; CTO group; UIUX merger cross-team influence | Government/police stakeholder relationship (SPF, ASC) is new territory. Prior external experience is a government-contracted client, not a government partner agency you need to co-build with. | ★★★★☆ |
+| PostgreSQL | New138 (migration scripts, schema design); **Community Chat production schema live** — going live this week | Schema design and migrations are solid. No documented deep query optimisation, query planning, or performance tuning at high data volume. | ★★★★☆ |
+| Deliver difficult feedback, own hard conversations | UIUX merger individual consultations; conflict mediation; Urgency Tagging | Self-identified conflict-avoidance flaw documented in 2025 appraisal. Most listed examples are process changes or de-escalation, not direct one-on-one performance conversations with a clear negative message. | ★★★☆☆ |
 
 ### Gaps to Acknowledge and Address
 
@@ -40,7 +40,7 @@ ScamShield is Singapore's national anti-scam platform. S$1.1 billion was lost to
 | **ML classifiers / OpenSearch** | No direct production ML experience. Frame via: (a) POC mindset (Steganographic QR POC, Mixpanel integration with Data Science team), (b) architectural thinking for data pipelines, (c) *willingness to work alongside engineers with deeper domain expertise* — which OGP explicitly values. |
 | **Anti-fraud / trust & safety domain** | Closest: Bot Prevention proposal (preventing scripted API abuse); Digital Signature for ticket fraud detection; OWASP security checklist. The domain is adjacent; the security-first thinking transfers. |
 | **Public sector / government context** | NL (LottoMatik) is a government-contracted national lottery — closest you have. DFNN is a government client. Frame as: experience delivering to government stakeholders with high reliability and compliance requirements. |
-| **Small team EM (3-8)** | You've led 30 — the concern is the other direction (overqualified, wrong fit). Address directly: "I'm specifically drawn to the small, high-ownership model. The Community Chat team is exactly this — small, focused, high technical bar, my hands in the code." |
+| **Small team EM (3-8)** | ~~Concern~~ **Not a gap.** Leading a small Fullstack JS team right now; shipped to production last month; going live this week. Say: "I'm not moving toward this model — I'm in it." |
 | **Conflict avoidance (self-identified 2025)** | This is a growth area you've documented. Don't hide it — OGP values honesty. Frame as: "I've identified it, sought counseling, and actively worked on it. Here's a specific example of how I handled a hard conversation this year." |
 
 ---
@@ -290,9 +290,10 @@ OGP wants someone who is:
 
 | Gap | What to Say | What to Do |
 |-----|------------|-----------|
-| NestJS | ~~Gap~~ **Not a gap.** Built NestJS architecture for Community Chat (2026). Claim confidently. | Nothing — this is a strength now |
-| ML / OpenSearch | "I'll work alongside engineers with deeper domain expertise; I bring architectural thinking and a fast ramp-up track record." | 1-hour read on OpenSearch concepts; be able to discuss what it's used for |
-| Anti-fraud domain | "Adjacent experience via security proposals (Bot Prevention, Digital Signature); the threat-modelling mindset transfers." | Read 1-2 articles on trust and safety engineering |
-| Public sector | "NL platform has government client experience (DFNN); I understand compliance constraints and high-reliability requirements." | Read about OGP's values and past products |
-| Small team EM | "I'm leading a small Fullstack JS team right now for Community Chat — this is the model I'm in, not moving toward." | Prepare to describe the Community Chat team structure specifically |
+| NestJS | ~~Gap~~ **Not a gap.** Built NestJS architecture in production. Claim confidently. | Nothing |
+| Hands-on code (12 months) | ~~Gap~~ **Not a gap.** Shipped last month; architectural updates lined up; going live this week. | Nothing |
+| Small team EM | ~~Gap~~ **Not a gap.** Leading small Fullstack JS team right now, shipping. | Prepare to describe team structure + what "going live" involves |
+| ML / OpenSearch | "I work alongside engineers with deeper domain expertise; I bring architectural thinking and a fast ramp-up track record." | 1-hour read on OpenSearch; be able to discuss its role in search/classification |
+| Anti-fraud domain | "Adjacent: Bot Prevention, Digital Signature, OWASP checklist. Security-first thinking transfers." | Read 1-2 articles on trust and safety engineering |
+| Public sector | "NL platform = government client (DFNN); I understand compliance constraints and high-reliability requirements." | Read about OGP values and past products |
 | Conflict avoidance | "I've named it, worked on it, and here's what changed." | Have one concrete example of a hard conversation you did handle well ready |
