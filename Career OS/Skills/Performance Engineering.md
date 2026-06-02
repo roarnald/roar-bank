@@ -32,7 +32,7 @@ Designing, measuring, and improving system performance — including frontend re
 ### Infrastructure Scaling
 - **Horizontal Pod Autoscaling (HPA)**: Configured and validated for NL system; confirmed scaling behavior under load
 - **Batched API Requests (2026)**: Throttled Kaleido blockchain requests to prevent pod exhaustion [[2026-03-right-sizing-microservices]]
-- **Redis caching**: Pod-to-pod state sharing without database round-trips [[new138-fullstack-application]]
+- **Redis caching**: Pod-to-pod state sharing without database round-trips [[New138 Fullstack Application]]
 
 ## Related Projects
 - [[National Lottery Platform]]

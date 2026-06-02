@@ -33,7 +33,7 @@ Building, growing, coaching, and retaining teams; managing morale; developing in
 - Helped grow the Frontend team from a small group to **30 members** over 6 years.
 
 ## Related Projects
-- [[Internal Team Culture]]
+- [[Organizational Leadership]]
 
 ## Related Achievements
 - [[2021-11-urgency-tagging-workflow]]

@@ -1,5 +1,7 @@
 # Career Timeline — Ronald Thian
 
+> **Quick navigation:** [[Top Achievements]] · [[Engineering Manager Evidence]] · [[Technical Leadership Evidence]] · [[Stakeholder Leadership Evidence]] · [[People Leadership Evidence]]
+
 ## Intel Corporation
 ### Driver Developer Intern
 **Jan 2018 – Jun 2018**
@@ -18,7 +20,7 @@
 
 ---
 
-## Merquri Pte Ltd
+## [[Merquri]] Pte Ltd
 *Joined: 11 Nov 2019*
 
 ### Software Engineer (React)

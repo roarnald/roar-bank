@@ -66,7 +66,7 @@ Ronald has progressively expanded his technical influence from individual contri
 - Junior developers developed into mid-level engineers under Ronald's code review and coaching
 - Jacky: delivered first production NodeJS service — [[2025-01-lotto6d-nodejs-mentoring]]
 - UIUX developers: transitioned to React team standards — [[2023-01-uiux-team-merger]]
-- Team as a whole: introduced to Next.js, Svelte, Astro, MDX, monorepos, unit testing — [[Technical-Leadership]]
+- Team as a whole: introduced to Next.js, Svelte, Astro, MDX, monorepos, unit testing — [[Technical Leadership]]
 
 ---
 

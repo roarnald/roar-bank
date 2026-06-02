@@ -11,14 +11,14 @@
 - Designed performance test plan as Solutions Architect; directed optimisations (API merging, DB indexing)
 - Verified HPA horizontal scaling behavior under load
 - Tools: JMeter, Kubernetes Dashboard, Prometheus
-- [[2025-01-performance-testing-improvements]] | [[national-lottery-platform]]
+- [[2025-01-performance-testing-improvements]] | [[National Lottery Platform]]
 
 ### 2. New138 Full-Stack Application — Solo, Shipped Ahead of Schedule (2024)
 **Replaced hundreds of Elastic Beanstalk instances with a single full-stack application**
 - Solo developer: Astro JS + Node.js + Docker + Redis + Vault + Kubernetes
 - First full-stack production app in Merquri Frontend's history
 - Enabled promotion to Solutions Architect
-- [[2024-01-fullstack-new138-solo]] | [[new138-fullstack-application]]
+- [[2024-01-fullstack-new138-solo]] | [[New138 Fullstack Application]]
 
 ### 3. UIUX Team Merger — Freed 4 Headcounts (2023)
 **Dissolved the UIUX Team, merged into single Web Team, freed 4 engineers**
@@ -38,7 +38,7 @@
 - Solo developer; overrode PM direction; first monorepo setup in team
 - Pages: seconds → near-instant response
 - Co-appraiser: *"outstanding leadership skills... ready to take up more responsibility"*
-- [[2021-01-coin-backoffice-rewrite]] | [[coin-backoffice]]
+- [[2021-01-coin-backoffice-rewrite]] | [[Coin Backoffice]]
 
 ---
 
@@ -52,7 +52,7 @@
 ### 7. Safepay Phase 1 — 36 Hours vs 2-Week Plan (2022)
 - Solo developer; delivered under extreme compression (93% timeline reduction)
 - Coordinated with 8+ backend engineers
-- [[2022-06-safepay-36hr-delivery]] | [[safepay]]
+- [[2022-06-safepay-36hr-delivery]] | [[Safepay]]
 
 ### 8. Vite Dynamic Import Solutions — Year-Old Unresolved Problems (2024)
 - Solved two deep build tool issues no other developer could solve
@@ -83,13 +83,22 @@
 
 ## Tier 3: Notable — Use for Depth and Range
 
+- SA Review Process — Architecture gate for new projects (2024) — [[2024-01-sa-review-process]]
 - Urgency Tagging workflow innovation (2021) — [[2021-11-urgency-tagging-workflow]]
 - Frontend Sharing Program 4-year initiative (2022–2025) — [[2022-01-frontend-sharing-program]]
 - OWASP Security Checklist — 10 vulnerabilities caught before pen test (2025) — [[2025-10-security-checklist-owasp]]
-- IPA Dashboard: Lighthouse performance 60+ → 99 (2023)
-- Node Version Upgrade Orchestration across entire portfolio (2023)
+- IPA Dashboard: Lighthouse performance 60+ → 99 (2023) — [[2023-01-uiux-team-merger]]
+- Node Version Upgrade Orchestration across entire portfolio (2023) — [[2023-01-uiux-team-merger]]
 - Community Chat Application Architecture Proposal (2026) — [[2026-01-community-chat-architecture]]
 - Right-Sizing Microservices (2026) — [[2026-03-right-sizing-microservices]]
 - Steganographic QR Code POC (2025)
-- DYH-VN Next.js — First Next.js implementation in team (2022) — [[dyh-vn-nextjs]]
+- DYH-VN Next.js — First Next.js implementation in team (2022) — [[DYH-VN Next.js]]
 - Barrel Import Removal Automation — 90% effort reduction (2025)
+
+---
+
+## Generated Evidence Pages
+- [[Engineering Manager Evidence]]
+- [[Technical Leadership Evidence]]
+- [[Stakeholder Leadership Evidence]]
+- [[People Leadership Evidence]]

@@ -57,6 +57,6 @@ Lotto6D KJW needed a central NodeJS API server microservice to handle simple API
 
 # Related Skills
 
-- [[Mentoring]]
+- [[Mentoring Evidence]]
 - [[NodeJS Fullstack]]
 - [[People Leadership]]

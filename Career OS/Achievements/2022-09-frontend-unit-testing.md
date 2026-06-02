@@ -51,10 +51,10 @@ Repeated incidents in frontend could not be caught before production. There was 
 # Related Projects
 
 - [[Coin Backoffice]]
-- [[CASH Backoffice]]
+- [[Coin Backoffice]]
 
 # Related Skills
 
-- [[Test Automation]]
+- [[Technical Leadership]]
 - [[Technical Leadership]]
 - [[Frontend Architecture]]

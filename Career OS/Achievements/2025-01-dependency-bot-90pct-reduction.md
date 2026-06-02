@@ -56,6 +56,6 @@ The newly established Security Team began pushing for fixes from code scanning t
 # Related Skills
 
 - [[Security Engineering]]
-- [[DevOps]]
-- [[Process Automation]]
+- [[Kubernetes DevOps]]
+- [[Kubernetes DevOps]]
 - [[Technical Leadership]]

@@ -49,6 +49,10 @@ A government-certified national lottery system requiring high reliability, secur
 - **Bot Prevention**: Hash comparison architecture proposed after Sep 2025 incident (NLINCIDENT-261)
 - **Blockchain**: Batched API requests deployed — stabilized system with 300k failed transaction backlog
 
+# Architecture Reference
+
+- [[Solution Proposals Index]] — all formal SA proposals for this platform
+
 # Related Achievements
 
 - [[2025-01-performance-testing-improvements]]

@@ -65,7 +65,7 @@ The legacy codebase was of poor quality and contained enormous amounts of legacy
 
 # Related Skills
 
-- [[React JavaScript]]
 - [[Frontend Architecture]]
-- [[Monorepo]]
+- [[Frontend Architecture]]
+- [[Frontend Architecture]]
 - [[Technical Leadership]]

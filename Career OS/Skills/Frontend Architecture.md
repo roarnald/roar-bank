@@ -7,13 +7,13 @@ Designing scalable, maintainable frontend systems — including build tooling, m
 
 ### Monorepo Design
 - First monorepo at Merquri using **Lerna** (Coin Backoffice, 2021). [[2021-01-coin-backoffice-rewrite]]
-- Monorepo using **pnpm** (Safepay, 2022). [[safepay]]
-- Combined mobile + desktop repos into a single Next.js monorepo (DYH-VN, 2022). [[dyh-vn-nextjs]]
+- Monorepo using **pnpm** (Safepay, 2022). [[Safepay]]
+- Combined mobile + desktop repos into a single Next.js monorepo (DYH-VN, 2022). [[DYH-VN Next.js]]
 
 ### Rendering Strategy
 - **SSG + ISR** via Next.js for DYH-VN — first in team; deliberate decision to avoid pure SSR for DDoS risk mitigation (2022).
 - **Build-time rendering** with React 18 + Next 13 in DYH Revamp mobile/subpages (2023).
-- **Astro JS** — used for full-stack dual-mode application (Member + Admin from single codebase, 2024). [[new138-fullstack-application]]
+- **Astro JS** — used for full-stack dual-mode application (Member + Admin from single codebase, 2024). [[New138 Fullstack Application]]
 
 ### Build Tooling
 - Webpack setup of new repositories (2021).

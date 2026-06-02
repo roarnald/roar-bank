@@ -64,10 +64,10 @@ For every frontend event:
 
 # Related Projects
 
-- [[Internal Team Culture]]
+- [[Organizational Leadership]]
 
 # Related Skills
 
 - [[People Leadership]]
-- [[Mentoring]]
+- [[Mentoring Evidence]]
 - [[Organizational Leadership]]

@@ -53,4 +53,4 @@ A mismatch in emotions existed between code reviewers (trying to coach) and the 
 
 - [[People Leadership]]
 - [[Stakeholder Management]]
-- [[Process Improvement]]
+- [[Organizational Leadership]]

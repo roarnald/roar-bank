@@ -16,7 +16,7 @@ Driving technical direction, making architectural decisions, mentoring on techni
 - Pioneered unit testing in Merquri Frontend (86% coverage on CASH utils). [[2022-09-frontend-unit-testing]]
 
 ### Technology Introduction
-- First Next.js implementation (2022): DYH-VN with SSG/ISR. [[dyh-vn-nextjs]]
+- First Next.js implementation (2022): DYH-VN with SSG/ISR. [[DYH-VN Next.js]]
 - Introduced Svelte JS — first non-React framework in team's history (2023).
 - Introduced Astro JS for full-stack application (2024).
 - Introduced MDX for content-heavy pages (90% productivity improvement).
