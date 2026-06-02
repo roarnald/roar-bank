@@ -2,10 +2,12 @@
 title: Community Chat Application
 start_date: 2026-01
 end_date: in-progress
-role: Solutions Architect
+role: Solutions Architect / Fullstack Team Lead
 organization: Merquri Pte Ltd
 technologies:
+  - NestJS
   - Node.js
+  - TypeScript
   - Valkey (Redis fork)
   - BullMQ
   - WebSockets
@@ -17,6 +19,7 @@ stakeholders:
   - Project Manager
   - Kar Wai Cheng (Architecture)
   - Business Team
+  - Fullstack JS Engineering Team
 ---
 
 # Summary
@@ -45,11 +48,16 @@ Community leaders needed a way to group members into communities, control inform
 
 # Outcomes
 
-Solution Proposal submitted January 2026. Architecture approved pending business sign-off.
+- Solution Proposal submitted January 2026; architecture approved.
+- **NestJS backend built** — module structure, controller/service patterns, DI, guard configuration, WebSocket integration, Valkey Pub/Sub wiring, BullMQ queue, DB schema.
+- **Fullstack JS team created and operational** — first dedicated fullstack JS team at Merquri.
+- **Multi-Agent Audit workflow** developed and applied — AI agents used in coordinated sequence to audit architectural changes across multiple quality dimensions (correctness, security, scalability, pattern adherence) before production merge.
+- Complex architectural changes delivered to production-grade standard.
 
 # Related Achievements
 
 - [[2026-01-community-chat-architecture]]
+- [[2026-02-community-chat-nestjs-team-lead]]
 
 # Lessons Learned
 

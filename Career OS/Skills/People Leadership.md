@@ -11,6 +11,13 @@ Building, growing, coaching, and retaining teams; managing morale; developing in
 - Trained UIUX team members transitioning to React Team: paired with seniors, conducted consultations, managed anxieties during the merger. [[2023-01-uiux-team-merger]]
 - Coached developers on public speaking — from reading off slides to drawing analogies; observed in company-wide sharing (2023).
 
+### Creating and Leading a Small Fullstack JS Team (2026)
+- **Created a dedicated Fullstack JS team from scratch** for the Community Chat Application — the first fullstack-specific team at Merquri.
+- Set technical standards and delivery norms for a new stack (NestJS, Valkey, PostgreSQL) the team had not worked in before.
+- Led as the architectural authority: not in day-to-day feature delivery, but making architectural decisions, performing complex structural changes, and ensuring production quality.
+- Developed the Multi-Agent Audit workflow to provide quality assurance on architectural changes — compensating for the absence of a dedicated senior reviewer in the new stack.
+- [[2026-02-community-chat-nestjs-team-lead]] | [[Community Chat Application]]
+
 ### Systems for Team Culture
 - **Buddy System** (2022): Paired newcomers with established developers. Created a first leadership experience for senior developers.
 - **Urgency Tagging** (2021): Workflow innovation to resolve code review tension — designed, piloted, followed up. [[2021-11-urgency-tagging-workflow]]

@@ -28,14 +28,17 @@ Driving technical direction, making architectural decisions, mentoring on techni
 - Webpack 4 → 5 migration at scale (2023)
 - Node.js version upgrades across entire portfolio (2023, 2025)
 - Redis, Vault, Docker, Kubernetes — gained during fullstack project (2024)
+- **NestJS** — built backend architecture for Community Chat (2026); module/controller/service patterns, DI, WebSocket gateways, guard configuration [[2026-02-community-chat-nestjs-team-lead]]
 - Performance testing and load testing (JMeter, 2025)
 - Security: OWASP checklist, Digital Signature, Hash Comparison, Steganography POC
+- **Multi-Agent Audit workflow** — novel AI-assisted code quality process developed 2026; coordinates multiple agents across quality dimensions for complex architectural changes
 
 ## Related Projects
 - [[Coin Backoffice]]
 - [[Safepay]]
 - [[New138 Fullstack Application]]
 - [[National Lottery Platform]]
+- [[Community Chat Application]]
 
 ## Related Achievements
 - [[2021-01-coin-backoffice-rewrite]]
@@ -43,3 +46,4 @@ Driving technical direction, making architectural decisions, mentoring on techni
 - [[2024-01-vite-solutions-year-old-problem]]
 - [[2024-01-fullstack-new138-solo]]
 - [[2025-01-dependency-bot-90pct-reduction]]
+- [[2026-02-community-chat-nestjs-team-lead]]
