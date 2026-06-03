@@ -1,6 +1,6 @@
 # Ronald Thian — Engineering Manager Resume
 
-**Email:** roarnald@gmail.com · **LinkedIn:** https://www.linkedin.com/in/ronald-thian/ · **Location:** Singapore
+**Email:** roarnald@gmail.com · **LinkedIn:** https://www.linkedin.com/in/ronald-thian/ · **Location:** Singapore · Site: https://roarnald.dev
 
 ---
 
@@ -23,6 +23,8 @@ Engineering leader with 6+ years scaling engineering teams from small to 30+ mem
 - Authored 5 formal solution proposals; 4 approved by CTO and implemented at the architecture level.
 - Delivered OWASP-adapted security checklist — identified ~10 vulnerabilities ahead of external penetration test; drafted Incident Response Plan, Abnormal Traffic Runbook, and High-Level Architecture Diagram.
 - Presented Digital Signature and MFA proposals to DFNN (Philippine government client) in Manila; received explicit client commendation for technical rigour and practicality.
+- Built and deployed an internal **Company Second Brain** — consolidating scattered information from multiple sources into an LLM-maintained wiki with a knowledge graph.
+- Extended the Second Brain into two organisation-wide tools: an LLM-maintained Data Dictionary providing a single source of truth across all databases, and personal Obsidian Vaults for team-level knowledge management.
 
 #### Software Architect
 *Jan 2024 – Present*
