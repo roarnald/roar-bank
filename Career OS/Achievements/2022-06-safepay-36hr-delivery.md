@@ -68,6 +68,5 @@ Safepay was a new payment and withdrawal system written from scratch using moder
 # Related Skills
 
 - [[Frontend Architecture]]
-- [[Frontend Architecture]]
 - [[Stakeholder Management]]
 - [[Technical Leadership]]

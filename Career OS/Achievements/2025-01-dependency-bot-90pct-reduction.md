@@ -51,11 +51,10 @@ The newly established Security Team began pushing for fixes from code scanning t
 
 # Related Projects
 
-- [[Security Engineering]]
+- [[National Lottery Platform]]
 
 # Related Skills
 
 - [[Security Engineering]]
-- [[Kubernetes DevOps]]
 - [[Kubernetes DevOps]]
 - [[Technical Leadership]]

@@ -68,13 +68,10 @@ The UIUX Team used a legacy HTML/CSS/JS stack and was responsible for setting up
 
 # Related Projects
 
-- [[2023-01-uiux-team-merger]]
 - [[DYH-VN Next.js]]
-- [[2023-01-uiux-team-merger]]
 
 # Related Skills
 
 - [[Organizational Leadership]]
 - [[People Leadership]]
 - [[Technical Leadership]]
-- [[Organizational Leadership]]

@@ -56,7 +56,6 @@ Vite's code-splitting mechanism was designed for small-to-medium applications. T
 # Related Projects
 
 - [[2024-01-sa-review-process]]
-- [[2024-01-sa-review-process]]
 
 # Related Skills
 

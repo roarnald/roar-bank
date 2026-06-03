@@ -66,6 +66,4 @@ The legacy codebase was of poor quality and contained enormous amounts of legacy
 # Related Skills
 
 - [[Frontend Architecture]]
-- [[Frontend Architecture]]
-- [[Frontend Architecture]]
 - [[Technical Leadership]]

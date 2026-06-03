@@ -57,7 +57,7 @@ New projects were set up without any architectural review:
 # Related Projects
 
 - Rollball
-- [[2024-01-vite-solutions-year-old-problem]] (Vite issues found during review)
+- PNL
 
 # Related Skills
 

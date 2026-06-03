@@ -68,5 +68,4 @@ Root cause investigation revealed:
 
 - [[Solution Architecture]]
 - [[Distributed Systems]]
-- [[Distributed Systems]]
-- [[Distributed Systems]]
+- [[Incident Response]]

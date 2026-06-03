@@ -132,4 +132,6 @@ Engineering leader with 6+ years scaling frontend engineering teams from small t
 
 ## Education
 
-*[Add degree, institution, graduation year]*
+**Nanyang Technological University (NTU)** — Singapore
+Bachelor of Engineering, Computer Science
+*Aug 2015 – Jul 2018*

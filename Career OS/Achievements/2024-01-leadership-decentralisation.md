@@ -64,7 +64,7 @@ For every frontend event:
 
 # Related Projects
 
-- [[Organizational Leadership]]
+- Internal Team Culture
 
 # Related Skills
 

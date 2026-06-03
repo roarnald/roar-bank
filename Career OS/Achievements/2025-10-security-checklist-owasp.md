@@ -52,4 +52,3 @@ No systematic security review process existed for the NL platform. Relying solel
 
 - [[Security Engineering]]
 - [[Solution Architecture]]
-- [[Solution Architecture]]
